@@ -23,9 +23,9 @@ highlight_name: true
 role: Academic Researcher
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+# organizations:
+#   - name: OpenAI
+#     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,7 +38,7 @@ profiles:
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/yunxiali92
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -54,13 +54,13 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: UNIVERSITÄT ZU KÖLN
-    date_start: 2020-01-01
+    date_start: 2020-04-01
     date_end: 2025-01-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -80,8 +80,6 @@ education:
       GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -110,20 +108,20 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+  # - name: Technical Skills
+  #   items:
+  #     - name: Python
+  #       description: ''
+  #       percent: 80
+  #       icon: code-bracket
+  #     - name: Data Science
+  #       description: ''
+  #       percent: 100
+  #       icon: chart-bar
+  #     - name: SQL
+  #       description: ''
+  #       percent: 40
+  #       icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Supporting materials for Kafka's research"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-11-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-11-06T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -63,7 +63,7 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+<!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs. -->
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
