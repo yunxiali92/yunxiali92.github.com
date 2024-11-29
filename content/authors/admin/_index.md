@@ -22,7 +22,7 @@ highlight_name: true
 # Role/position/tagline
 role: Academic Researcher
 
-# Organizations/Affiliations to display in Biography blox
+# # Organizations/Affiliations to display in Biography blox
 # organizations:
 #   - name: OpenAI
 #     url: https://openai.com/
@@ -80,6 +80,8 @@ education:
       GPA: 3.4/4.0
       
       Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -177,8 +179,8 @@ languages:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+# ---
 
 ## About Me
 
-Yunxia Li is a PhD candidate at University of Cologne, her thesis focus on Kafka.
+Yunxia Li is a PhD candidate at University of Cologne, her thesis focus on Kafka's work.
