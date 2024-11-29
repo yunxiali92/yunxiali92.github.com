@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Supporting materials for Kafka's research"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-11-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-11-06T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: uploads/Kafka.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
